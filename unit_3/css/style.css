@@ -1,0 +1,28 @@
+body {
+	text-align: center;
+	background-image: url(http://scontent.fphl1-1.fna.fbcdn.net/hphotos-xlf1/t31.0-8/11952926_10204904657480780_1565378575563877483_o.jpg);
+	opacity: 60;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+h1 {
+	font-family: Helvetica;
+	font-size: 200px;
+	color: rgba(205,205,205,.5);
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#slogan {
+	font-family: helvetica;
+	font-size: 22px;
+	font-style: bold;
+	width: 500px;
+	text-align: left;
+	color: #ffffff;
+	margin-top: 80px;
+	margin-left: 10px;
+}
+
